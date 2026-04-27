@@ -1,0 +1,6 @@
+Metric,Value,Interpretation
+AUC-ROC,0.87,Excellent discrimination between classes
+Cross-Val Score,0.86 ± 0.03,Stable performance across folds
+Recall (Bookers),0.82,Catches 82% of actual bookers
+Precision (Bookers),0.52,"When predicts booking, correct 52% of time"
+F1-Score,0.63,Good balance for proactive marketing

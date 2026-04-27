@@ -1,0 +1,6 @@
+Rank,Feature,Importance (%),Business Interpretation
+1,Purchase Lead Time,23,Early planners more likely to complete
+2,Route,19,Certain destinations drive higher conversions
+3,Trip Complexity,14,Passenger count × stay length interaction
+4,Length of Stay,12,Extended trips indicate stronger commitment
+5,Premium Score,10,Customers wanting extras signal higher intent

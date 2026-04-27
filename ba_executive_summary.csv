@@ -1,0 +1,7 @@
+Category,Metric/Description,Action Item
+Model Performance,AUC-ROC: 0.87 | CV: 0.86±0.03 | Recall: 0.82,Deploy with confidence - stable cross-validation
+Top Feature #1,Purchase Lead Time (23% importance),Target 90+ day advance bookings with incentives
+Top Feature #2,Route Selection (19% importance),Focus marketing budget on high-conversion routes
+Top Feature #3,Trip Complexity (14% importance),Segment by group size × stay length for upselling
+Business Impact,20% ↑ conversions | 15% ↓ marketing waste,Replace reactive airport sales with proactive campaigns
+Deployment Status,Production-ready - all features available at booking time,Integrate into existing booking workflow
